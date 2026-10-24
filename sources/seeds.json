@@ -310,7 +310,7 @@
     ]
   },
   {
-    "repository": "osv-scanner/osv-scanner",
+    "repository": "google/osv-scanner",
     "category": "security",
     "tags": [
       "vulnerability",
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "repository": "sharp/sharp",
+    "repository": "lovell/sharp",
     "category": "assets",
     "tags": [
       "image",
