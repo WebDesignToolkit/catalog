@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "slug": "framework",
+      "name": "Frameworks"
+    },
+    {
+      "slug": "design-system",
+      "name": "UI & Design Systems"
+    },
+    {
+      "slug": "design-tool",
+      "name": "Design Tools"
+    },
+    {
+      "slug": "assets",
+      "name": "Icons & Images"
+    },
+    {
+      "slug": "accessibility",
+      "name": "Accessibility"
+    },
+    {
+      "slug": "performance",
+      "name": "Performance"
+    },
+    {
+      "slug": "testing",
+      "name": "Testing"
+    },
+    {
+      "slug": "developer-tool",
+      "name": "Developer Tools"
+    },
+    {
+      "slug": "cms",
+      "name": "CMS"
+    },
+    {
+      "slug": "mcp",
+      "name": "MCP Servers"
+    },
+    {
+      "slug": "agent-skills",
+      "name": "AI Skills"
+    },
+    {
+      "slug": "security",
+      "name": "Security"
+    },
+    {
+      "slug": "deployment",
+      "name": "Deployment"
+    }
+  ]
+}

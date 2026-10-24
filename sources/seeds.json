@@ -1,0 +1,346 @@
+[
+  {
+    "repository": "withastro/astro",
+    "category": "framework",
+    "tags": [
+      "astro",
+      "static-site",
+      "generation",
+      "content"
+    ]
+  },
+  {
+    "repository": "vitejs/vite",
+    "category": "framework",
+    "tags": [
+      "vite",
+      "frontend",
+      "tooling",
+      "build"
+    ]
+  },
+  {
+    "repository": "sveltejs/kit",
+    "category": "framework",
+    "tags": [
+      "svelte",
+      "app",
+      "routing"
+    ]
+  },
+  {
+    "repository": "nuxt/nuxt",
+    "category": "framework",
+    "tags": [
+      "vue",
+      "ssr"
+    ]
+  },
+  {
+    "repository": "vercel/next.js",
+    "category": "framework",
+    "tags": [
+      "react",
+      "fullstack"
+    ]
+  },
+  {
+    "repository": "tailwindlabs/tailwindcss",
+    "category": "design-system",
+    "tags": [
+      "css",
+      "utility"
+    ]
+  },
+  {
+    "repository": "shadcn-ui/ui",
+    "category": "design-system",
+    "tags": [
+      "react",
+      "component",
+      "patterns"
+    ]
+  },
+  {
+    "repository": "radix-ui/primitives",
+    "category": "design-system",
+    "tags": [
+      "accessible",
+      "react",
+      "primitives"
+    ]
+  },
+  {
+    "repository": "mui/material-ui",
+    "category": "design-system",
+    "tags": [
+      "react",
+      "component",
+      "library"
+    ]
+  },
+  {
+    "repository": "chakra-ui/chakra-ui",
+    "category": "design-system",
+    "tags": [
+      "react",
+      "components"
+    ]
+  },
+  {
+    "repository": "unocss/unocss",
+    "category": "design-system",
+    "tags": [
+      "atomic",
+      "css"
+    ]
+  },
+  {
+    "repository": "storybookjs/storybook",
+    "category": "design-system",
+    "tags": [
+      "component",
+      "docs",
+      "testing"
+    ]
+  },
+  {
+    "repository": "floating-ui/floating-ui",
+    "category": "design-system",
+    "tags": [
+      "positioning",
+      "tooltips",
+      "popovers"
+    ]
+  },
+  {
+    "repository": "penpot/penpot",
+    "category": "design-tool",
+    "tags": [
+      "open-source",
+      "collaborative",
+      "design"
+    ]
+  },
+  {
+    "repository": "excalidraw/excalidraw",
+    "category": "design-tool",
+    "tags": [
+      "diagrams",
+      "drawing"
+    ]
+  },
+  {
+    "repository": "lucide-icons/lucide",
+    "category": "assets",
+    "tags": [
+      "icons",
+      "svg"
+    ]
+  },
+  {
+    "repository": "tabler/tabler-icons",
+    "category": "assets",
+    "tags": [
+      "icons",
+      "svg"
+    ]
+  },
+  {
+    "repository": "phosphor-icons/core",
+    "category": "assets",
+    "tags": [
+      "icons"
+    ]
+  },
+  {
+    "repository": "iconify/iconify",
+    "category": "assets",
+    "tags": [
+      "icon",
+      "aggregation"
+    ]
+  },
+  {
+    "repository": "dequelabs/axe-core",
+    "category": "accessibility",
+    "tags": [
+      "accessibility",
+      "audit"
+    ]
+  },
+  {
+    "repository": "GoogleChrome/lighthouse",
+    "category": "performance",
+    "tags": [
+      "web",
+      "vitals",
+      "auditing"
+    ]
+  },
+  {
+    "repository": "microsoft/playwright",
+    "category": "testing",
+    "tags": [
+      "browser",
+      "testing"
+    ]
+  },
+  {
+    "repository": "vitest-dev/vitest",
+    "category": "testing",
+    "tags": [
+      "unit",
+      "testing"
+    ]
+  },
+  {
+    "repository": "pa11y/pa11y",
+    "category": "accessibility",
+    "tags": [
+      "automated",
+      "accessibility",
+      "check"
+    ]
+  },
+  {
+    "repository": "biomejs/biome",
+    "category": "developer-tool",
+    "tags": [
+      "formatter",
+      "linter"
+    ]
+  },
+  {
+    "repository": "prettier/prettier",
+    "category": "developer-tool",
+    "tags": [
+      "formatting"
+    ]
+  },
+  {
+    "repository": "eslint/eslint",
+    "category": "developer-tool",
+    "tags": [
+      "javascript",
+      "lint"
+    ]
+  },
+  {
+    "repository": "decaporg/decap-cms",
+    "category": "cms",
+    "tags": [
+      "git",
+      "based",
+      "content",
+      "management"
+    ]
+  },
+  {
+    "repository": "payloadcms/payload",
+    "category": "cms",
+    "tags": [
+      "headless",
+      "cms"
+    ]
+  },
+  {
+    "repository": "tinacms/tinacms",
+    "category": "cms",
+    "tags": [
+      "git",
+      "backed",
+      "content",
+      "editing"
+    ]
+  },
+  {
+    "repository": "modelcontextprotocol/servers",
+    "category": "mcp",
+    "tags": [
+      "official",
+      "MCP",
+      "server",
+      "examples"
+    ]
+  },
+  {
+    "repository": "microsoft/playwright-mcp",
+    "category": "mcp",
+    "tags": [
+      "browser",
+      "automation",
+      "MCP"
+    ]
+  },
+  {
+    "repository": "ChromeDevTools/chrome-devtools-mcp",
+    "category": "mcp",
+    "tags": [
+      "chrome",
+      "devtools",
+      "MCP"
+    ]
+  },
+  {
+    "repository": "upstash/context7",
+    "category": "mcp",
+    "tags": [
+      "documentation",
+      "retrieval",
+      "MCP"
+    ]
+  },
+  {
+    "repository": "anthropics/skills",
+    "category": "agent-skills",
+    "tags": [
+      "agent",
+      "skill",
+      "examples"
+    ]
+  },
+  {
+    "repository": "vercel-labs/agent-skills",
+    "category": "agent-skills",
+    "tags": [
+      "agent",
+      "skill",
+      "ecosystem"
+    ]
+  },
+  {
+    "repository": "osv-scanner/osv-scanner",
+    "category": "security",
+    "tags": [
+      "vulnerability",
+      "scanning"
+    ]
+  },
+  {
+    "repository": "cloudflare/workers-sdk",
+    "category": "deployment",
+    "tags": [
+      "Cloudflare",
+      "development",
+      "toolkit"
+    ]
+  },
+  {
+    "repository": "vercel/vercel",
+    "category": "deployment",
+    "tags": [
+      "deployment",
+      "CLI",
+      "platform"
+    ]
+  },
+  {
+    "repository": "sharp/sharp",
+    "category": "assets",
+    "tags": [
+      "image",
+      "processing"
+    ]
+  }
+]

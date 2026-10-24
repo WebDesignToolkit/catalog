@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "WebDesignToolkit resource record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "repository",
+    "url",
+    "name",
+    "category",
+    "tags",
+    "description",
+    "status",
+    "license_spdx",
+    "license_status",
+    "archived",
+    "stars",
+    "last_checked",
+    "source"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "repository": {
+      "type": "string",
+      "pattern": "^[^/]+/[^/]+$"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "name": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "description": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "candidate",
+        "reviewed",
+        "rejected"
+      ]
+    },
+    "license_spdx": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "license_status": {
+      "enum": [
+        "detected",
+        "unresolved"
+      ]
+    },
+    "archived": {
+      "type": "boolean"
+    },
+    "stars": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "last_checked": {
+      "type": "string",
+      "format": "date"
+    },
+    "pushed_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "enum": [
+        "github-api"
+      ]
+    },
+    "limitations": {
+      "type": "string"
+    }
+  }
+}
