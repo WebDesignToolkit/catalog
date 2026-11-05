@@ -292,6 +292,17 @@
     ]
   },
   {
+    "repository": "seifip/kilobat-cli",
+    "category": "mcp",
+    "tags": [
+      "macos",
+      "network-diagnostics",
+      "dns",
+      "json",
+      "MCP"
+    ]
+  },
+  {
     "repository": "anthropics/skills",
     "category": "agent-skills",
     "tags": [

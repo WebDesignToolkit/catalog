@@ -734,6 +734,30 @@
     "limitations": "Unreviewed candidate; not a security, suitability or license approval."
   },
   {
+    "id": "seifip-kilobat-cli",
+    "repository": "seifip/kilobat-cli",
+    "url": "https://github.com/seifip/kilobat-cli",
+    "name": "kilobat-cli",
+    "category": "mcp",
+    "tags": [
+      "macos",
+      "network-diagnostics",
+      "dns",
+      "json",
+      "MCP"
+    ],
+    "description": "macOS network diagnostics CLI and MCP server",
+    "status": "candidate",
+    "license_spdx": "GPL-3.0",
+    "license_status": "detected",
+    "archived": false,
+    "stars": 1,
+    "last_checked": "2026-11-05",
+    "pushed_at": "2026-11-04T10:06:59Z",
+    "source": "github-api",
+    "limitations": "Unreviewed candidate. Local macOS 14+ CLI; Homebrew builds from source with Xcode 16+. Some data depends on the separate proprietary Kilobat desktop app and OS permissions. Network probes contact targets; some tools change settings, and MCP clients control permission prompts."
+  },
+  {
     "id": "microsoft-playwright-mcp",
     "repository": "microsoft/playwright-mcp",
     "url": "https://github.com/microsoft/playwright-mcp",
